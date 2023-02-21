@@ -7,7 +7,7 @@ let totalMSG = document.getElementById("total");
 let total = 0;
 
 
-function agregarAticket(){
+function addToTicket(){
     let articleStr = article.value;
     let priceStr = precio.value;
 
