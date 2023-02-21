@@ -4,7 +4,7 @@
 
 
 ## About the Javascript Study Group
-Have you taken JS trainings but now looking for fun exercises? Join the Javascript Study Group! It is a safe-spaced study group where we will work on 10 exercises to practice everything you learned!
+Have you taken JS trainings but now looking for fun exercises? Join the Javascript Study Group! It is a self-spaced study group where we will work on 10 exercises to practice everything you learned!
 
 All coding levels are invited, we will have material for reference and an amazing community to peer review our solutions!
 
