@@ -17,8 +17,8 @@ For each operation, you can use a different function, like sum(), rest(), multip
 5. Math
 
 ## Resources
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
-2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+Credits to @wesBos
+1. https://javascript30.com/  -> Here's the recording guided.
 
 ## Community
 #### Share your solution with us in Slack channel! 
