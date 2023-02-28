@@ -25,6 +25,9 @@ body {
     color: #ffffff;
     text-align: center;
     align-items: center;
+    /* Safari transitionend event.propertyName === flex */
+      /* Chrome + FF transitionend event.propertyName === flex-grow */
+      /* Transitioning font-size and flexbox size over 0.7s */
     transition: 
         font-size 0.7s cubic-bezier(0.61,-0.19, 0.7,-0.11),
         flex 0.7s cubic-bezier(0.61,-0.19, 0.7,-0.11),
