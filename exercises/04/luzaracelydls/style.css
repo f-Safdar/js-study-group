@@ -43,23 +43,23 @@ body {
 }
 
 .panel-one {
-    background-image: url(img/img-one.jpg);
+    background-image: url(../img/img-one.jpg);
 }
 
 .panel-two {
-    background-image: url(img/img-two.jpg);
+    background-image: url(../img/img-two.jpg);
 }
 
 .panel-three {
-    background-image: url(img/img-three.jpg);
+    background-image: url(../img/img-three.jpg);
 }
 
 .panel-four {
-    background-image: url(img/img-four.jpg);
+    background-image: url(../img/img-four.jpg);
 }
 
 .panel-five {
-    background-image: url(img/img-five.jpg);
+    background-image: url(../img/img-five.jpg);
 }
 
 .panel > * {
