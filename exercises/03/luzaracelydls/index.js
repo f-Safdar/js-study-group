@@ -69,6 +69,7 @@ function calculate(){
         default:
             return 
     }
+    //Should call function to display result
 }
 
 function convertToFloating(value){
